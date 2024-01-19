@@ -2,9 +2,18 @@
     "name": "sm-sandy/api-response",
     "description": "The ApiResponse package is a simple yet powerful Laravel package designed to streamline the process of formatting API responses. It provides a convenient way to structure and return JSON responses in a consistent format for both success and error scenarios.",
     "keywords": [
-        "sm-andy/api-response",
         "laravel",
-        "sm-andy/api-response"
+        "api",
+        "response",
+        "json",
+        "formatting",
+        "standardization",
+        "http",
+        "rest",
+        "restful",
+        "http response",
+        "error handling",
+        "api development"
     ],
     "homepage": "https://github.com/sm-sandy/api-response",
     
